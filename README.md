@@ -98,7 +98,8 @@ Grâce à ce tableau de bord, plusieurs insights peuvent être identifiés :
 🖼️ Dashboard Preview
 
 <img width="1289" height="719" alt="Screenshot 2026-04-18 at 21 06 19" src="https://github.com/user-attachments/assets/6b5fc14b-3fef-4421-8189-e501d20201e8" />
-)
+<img width="1158" height="653" alt="Screenshot 2026-04-18 at 21 07 45" src="https://github.com/user-attachments/assets/289844cc-aeab-430b-98c8-8efd1d69ab09" />
+
 
 ⸻
 
