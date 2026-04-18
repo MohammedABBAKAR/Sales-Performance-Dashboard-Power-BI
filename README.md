@@ -97,7 +97,8 @@ Grâce à ce tableau de bord, plusieurs insights peuvent être identifiés :
 
 🖼️ Dashboard Preview
 
-(Ajoute هنا صور الداشبورد من Power BI)
+<img width="1289" height="719" alt="Screenshot 2026-04-18 at 21 06 19" src="https://github.com/user-attachments/assets/6b5fc14b-3fef-4421-8189-e501d20201e8" />
+)
 
 ⸻
 
